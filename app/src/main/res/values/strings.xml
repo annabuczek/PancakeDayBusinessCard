@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pancake Day Business Card</string>
+
+    <string name="pancake_day_logo">Pancake Day</string>
+
+    <string name="address">ul. Kopernika 18/3, Kraków</string>
+
+    <string name="description">Once you try our delicious pancakes, you will never forget. Choose your favourite toppings and enjoy your Pancake Day.</string>
+
+    <string name="hours">Open every day from 9 am to 9 pm</string>
+
+    <string name="website_description">Check us out on</string>
+
+    <string name="website">www.pancakeday.pl</string>
+</resources>

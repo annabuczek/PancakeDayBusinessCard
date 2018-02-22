@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <!--Header style for the name of restaurant. -->
+    <style name="Header">
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">@font/handlee</item>
+    </style>
+
+    <!--Style of the description text. -->
+    <style name="Description">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/handlee</item>
+    </style>
+
+</resources>
